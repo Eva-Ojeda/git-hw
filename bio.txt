@@ -11,3 +11,9 @@ Languages:
 - spanish
 - english
 - french
+
+Skills:
+- sculpture
+- contortionism
+- embroidery
+
