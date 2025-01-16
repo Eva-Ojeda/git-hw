@@ -6,3 +6,8 @@ Current City: Vancouver
 Favorite Food: chilaquiles
 Favorite Movie: Mulan
 Favorite Music: Elsa y Elmar
+
+Skills:
+- sculpture
+- contortionism
+- embroidery
